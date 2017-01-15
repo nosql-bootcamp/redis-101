@@ -1,8 +1,6 @@
 # Redis 101
 
-<div style="text-align: center; margin-bottom: 20px;">
 ![redis-logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/300px-Redis_Logo.svg.png)
-</div>
 
 **Redis 101** est un workshop permettant de découvrir la base de données NoSQL Redis et son écosystème, étape par étape.
 
