@@ -28,8 +28,12 @@ Voici quelques cas d'utilisation des bases de données clé-valeur :
 
 ## Étapes du workshop
 
+Redis propose un tutoriel interactif en ligne (« Try Redis »). C'est la meilleure façon de démarrer pour se familiariser avec les commandes de bases.
+
+Dans un second temps vous pouvez installer Redis sur votre machine et rejouer les commandes les commandes apprises à l'étape 0.
+
 * Étape 0 : [Try Redis !](https://redis.io/)
-* Étape 1 : [Installation](https://redis.io/download#installation)
+* Étape 1 : [Installation](./instructions/step-1.md)
 
 ## Liens utiles
 
