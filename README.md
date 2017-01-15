@@ -1,5 +1,9 @@
 # Redis 101
 
+<div style="text-align: center; margin-bottom: 20px;">
+![redis-logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/300px-Redis_Logo.svg.png)
+</div>
+
 **Redis 101** est un workshop permettant de découvrir la base de données NoSQL Redis et son écosystème, étape par étape.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
@@ -17,6 +21,8 @@ Redis peut gérer des valeurs autres que des chaînes de caractères dont notamm
 Redis conserve l'intégralité de ses données en mémoire (RAM) afin de garantir d'excellentes performances. Un mécanisme de « snapshotting » permet la persistance des données sur disque de manière asynchrone, rendant ainsi possible la restauration des données en cas d'incident. La persistance sur disque a lieu toutes les 2 secondes par défaut, ce qui limite (mais n'exclut pas) la perte de données.
 
 La scalabilté est assurée par un mécanisme de réplication master/slave permettant la répartition de la charge en lecture et offrant une meilleure résistance aux pannes.
+
+Ce workshop est basé sur la **version 3.2.6** de Redis.
 
 ## Use Cases
 
