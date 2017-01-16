@@ -8,7 +8,7 @@ La procédure à suivre est la suivante : https://redis.io/download#installation
 
 **Redis n'est pas supporté officiellement sous windows.**
 
-Cependant le groupe Microsoft Open Tech maintient un portage de Redis sous Windows : https://github.com/MSOpenTech/redis
+Cependant le groupe Microsoft Open Tech maintient un portage de Redis sous Windows : https://github.com/MSOpenTech/redis/releases
 
 Vous pouvez essayer :-)
 
