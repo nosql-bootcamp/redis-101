@@ -20,7 +20,7 @@ Redis conserve l'intégralité de ses données en mémoire (RAM) afin de garanti
 
 La scalabilté est assurée par un mécanisme de réplication master/slave permettant la répartition de la charge en lecture et offrant une meilleure résistance aux pannes.
 
-Ce workshop est basé sur la **version 5.0.7** de Redis.
+Ce workshop est basé sur la **version 6.0.10** de Redis.
 
 ## Use Cases
 
