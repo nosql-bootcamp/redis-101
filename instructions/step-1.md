@@ -1,5 +1,13 @@
 # Installation
 
+## Docker
+
+Il est possible d'installer et de lancer une instance de Redis directement dans un conteneur Docker :
+```shell
+> docker run --name nosql-bootcamp-redis-101 -d redis
+> docker exec -it nosql-bootcamp-redis-101 /bin/bash -c "redis-cli"
+```
+
 ## Linux et Mac OS
 
 La procédure à suivre est la suivante : https://redis.io/download#installation
